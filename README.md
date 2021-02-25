@@ -1,0 +1,2 @@
+# wanfang_patent_grpc_query
+通过万方专利的gRPC接口查询专利的基本信息
